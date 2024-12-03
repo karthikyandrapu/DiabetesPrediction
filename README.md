@@ -76,4 +76,4 @@ The Random Forest model proved to be a reliable choice for predicting diabetes w
 
 ## Live App
 
-Check out the live model in action on [Streamlit](https://diabetes-prediction-repo.streamlit.app).
+Check out the live model in action on [Streamlit](https://diabetes-prediction-repo.streamlit.app)
